@@ -4,7 +4,7 @@
 
   * The survey form is in the file name [survey-form](index.html).
 
-**description**
+**Description**
   
    * Form Layout: The form is wrapped in a <form> tag and divided into several sections using <div> tags with Bootstrap classes for spacing `(.   margin)` and layout `(.row, .col-3, .col-6)`.
 
